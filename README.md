@@ -2,7 +2,7 @@
 
 The purpose of this repository is to discover insights from onsite search queries.
 
-### [Source Notebook](https://github.com/Ayima/onsite-search-data-mining/blob/master/notebooks/src/onsite_search_20_topic.ipynb)
+### [Source Notebook](https://nbviewer.jupyter.org/github/Ayima/onsite-search-data-mining/blob/master/notebooks/src/onsite_search_20_topic.ipynb)
 - Extract search queries from GA using Google's v4 API
 - Generate word clouds with NLP
 - Discover topics using LDA models
